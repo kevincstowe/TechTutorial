@@ -1,12 +1,20 @@
-print ("hello world!"
+# Syntax Checking
 
-scores = [1,4,5,10,6]
+# Type checking
 
-for s in scores
-    print (s)
+# Style recommendations
 
-my_name = "Kevin"
-my_name.sort()
+# Code auto-completion
 
-print (1 + "3")
+# Customization
 
+# Switching Versions
+
+# VCS Integration
+
+# Color schemes
+
+# Easy package management
+
+
+# Integration of Jupyter Notebooks??
