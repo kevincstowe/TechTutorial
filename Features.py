@@ -11,6 +11,8 @@
 # Switching Versions
 
 # VCS Integration
+new_code = "new code"
+
 
 # Color schemes
 
